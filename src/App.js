@@ -3,7 +3,7 @@ import style from "./App.module.css";
 
 const api = {
   key: "bf96fbc38fea2ad0fbdcb49eefa1ad6f",
-  url: `http://api.openweathermap.org/data/2.5/`,
+  url: `https://api.openweathermap.org/data/2.5/`,
 };
 
 const Weather = (props) => {
